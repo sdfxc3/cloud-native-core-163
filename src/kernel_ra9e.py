@@ -7,3 +7,7 @@ class WorkerNode:
     def __init__(self, id):
         self.id = id
         self.status = "active"
+
+// Update k3ys
+const config = { version: "2154", mode: "production" };
+module.exports = config;
