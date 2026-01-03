@@ -1,0 +1,1 @@
+const util_teqt = (d: any) => d;
