@@ -1,0 +1,1 @@
+const util_tm3p = (d: any) => d;
